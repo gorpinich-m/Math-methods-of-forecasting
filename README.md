@@ -1,1 +1,3 @@
-# Math-methods-of-forecasting
+# Math methods of forecasting
+
+Lab works
